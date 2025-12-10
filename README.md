@@ -57,7 +57,8 @@ endmodule
 <img width="1268" height="736" alt="Screenshot 2025-12-10 105526" src="https://github.com/user-attachments/assets/195a7f59-38dd-4a1b-9a52-1833cd713c82" />
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-<img width="1919" height="1025" alt="Screenshot 2025-12-10 110238" src="https://github.com/user-attachments/assets/892acc10-c7b6-475a-9d58-3a5e650c3c4d" />
+<img width="1919" height="1021" alt="Screenshot 2025-12-10 111603" src="https://github.com/user-attachments/assets/23089f62-44d6-4777-8962-e9dcc9d9f36a" />
+
 
 **RESULTS**
 
